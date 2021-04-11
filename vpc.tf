@@ -16,3 +16,4 @@ resource "aws_vpc" "dfsc_vpc" {
     Terrafrom = "True"
   }
 }
+# tags are created to identify the resources.
